@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Test / coverage output
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Saved at runtime, not source
+highscores.json
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
