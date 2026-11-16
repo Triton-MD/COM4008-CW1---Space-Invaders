@@ -23,7 +23,21 @@ RED = (255, 0, 0)
 # --- R1: Invader fleet --------------------------------------------------
 FLEET_ROWS = 5
 FLEET_COLS = 11
-FLEET_LAYOUT = [2, 1, 1, 0, 0]   # row index -> invader kind
+FLEET_LAYOUT = [2, 1, 1, 0, 0] # row index -> invader kind
+INVADER_WIDTH = 32
+INVADER_HEIGHT = 24
+FLEET_START_X = 80 # left edge of column 0 at the start of a wave
+FLEET_START_Y = 80 # top edge of row 0
+FLEET_H_SPACING = 48 # distance between column left edges
+FLEET_V_SPACING = 40 # distance between row top edges
+FLEET_EDGE_MARGIN = 10 # gap kept from the screen edge
+FLEET_BASE_SPEED = 30 # px/s with all invaders alive
+FLEET_MAX_SPEED = 300 # px/s cap (last invader)
+FLEET_DROP = 16 # px the fleet drops at each edge
+FLEET_FIRE_MIN = 0.4 # seconds between invader shots (random range)
+FLEET_FIRE_MAX = 1.2
+INVADER_BULLET_MAX = 3 # most invader bullets on screen at once
+INVADER_POINTS = {0: 10, 1: 20, 2: 30}
 # TODO (R1): base speed, drop distance, max speed cap, fire chance,
 # enemy bullet cap, points per kind.
 

@@ -1,6 +1,6 @@
 # Design: R2 Player combat
 
-**Owner:** <!-- name -->  ·  **Code:** `game/player/`  ·  **Tests:** <!-- test file -->
+**Owner:** <!-- Sasha -->  ·  **Code:** `game/player/`  ·  **Tests:** <!-- test file -->
 
 ## Requirement
 

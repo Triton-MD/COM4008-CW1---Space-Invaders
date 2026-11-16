@@ -1,6 +1,6 @@
 # Design: R3 Barriers
 
-**Owner:** <!-- name -->  ·  **Code:** `game/barriers/`  ·  **Tests:** <!-- test file -->
+**Owner:** <!-- Yousaf -->  ·  **Code:** `game/barriers/`  ·  **Tests:** <!-- test file -->
 
 ## Requirement
 

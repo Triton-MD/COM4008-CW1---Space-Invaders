@@ -38,9 +38,9 @@ connect. Link a diagram from docs/diagrams/. -->
 | `game/collisions.py` | Shared | Collision step |
 | `game/hud.py` | | Score, lives, wave |
 | `game/assets.py` | | Loads images, sounds, fonts |
-| `game/fleet/` | R1 | Invaders and fleet |
-| `game/player/` | R2 | Player ship |
-| `game/barriers/` | R3 | Barriers |
+| `game/fleet/` | Stefan | Invaders and fleet |
+| `game/player/` | Sasha | Player ship |
+| `game/barriers/` | Yousaf | Barriers |
 
 ## 5. Shared interfaces
 

@@ -1,6 +1,6 @@
 # Design: R1 Invader fleet
 
-**Owner:** <!-- name -->  ·  **Code:** `game/fleet/`  ·  **Tests:** <!-- test file -->
+**Owner:** <!-- Stefan -->  ·  **Code:** `game/fleet/`  ·  **Tests:** <!-- test file -->
 
 ## Requirement
 

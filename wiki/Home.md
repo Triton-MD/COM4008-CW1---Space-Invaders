@@ -8,9 +8,9 @@ The brief requires us to state which member was assigned which requirement.
 
 | Member | GitHub username | Requirement | Code folder |
 |--------|-----------------|-------------|-------------|
-|        |                 | R1 Invader fleet | `game/fleet/` |
-|        |                 | R2 Player combat | `game/player/` |
-|        |                 | R3 Barriers      | `game/barriers/` |
+| Stefan | Triton-MD       | R1 Invader fleet | `game/fleet/` |
+| Sasha  |                 | R2 Player combat | `game/player/` |
+| Yousaf |                 | R3 Barriers      | `game/barriers/` |
 
 ## How to run
 

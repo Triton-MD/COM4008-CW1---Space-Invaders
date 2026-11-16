@@ -6,9 +6,9 @@ COM4008 CW1: a Space Invaders-style game in Python and pygame.
 
 | Member | Requirement | Folder |
 |--------|-------------|--------|
-| TODO   | R1 Invader fleet | `game/fleet/` |
-| TODO   | R2 Player combat | `game/player/` |
-| TODO   | R3 Barriers      | `game/barriers/` |
+| Stefan | R1 Invader fleet | `game/fleet/` |
+| Sasha  | R2 Player combat | `game/player/` |
+| Yousaf | R3 Barriers      | `game/barriers/` |
 
 ## Install
 
